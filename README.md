@@ -41,7 +41,3 @@ Through this project, I learned:
 * Advanced materials
 * Animation
 * Photorealistic rendering
-
-## Preview
-
-(Add rendered images here)
